@@ -1,0 +1,6 @@
+.bg-gradient-custom {
+    background: linear-gradient(135deg, #43cea2, #185a9d);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
